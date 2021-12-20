@@ -1,0 +1,22 @@
+{
+  "customerOrderType": "Reconnect - Credit Limit",
+  "publicIdType": "mobileNo",
+  "publicIdValue": "0893640801",
+  "privateIdType": "uuid",
+  "privateIdValue": "43ea9527-82f2-4950-add0-af622775b505",
+  "orderDate": "20/09/2021 12:59:00",
+  "note": "",
+  "channel": "Batch",
+  "reasonCode": ""Suspend - Credit Limit (All) --> Reconnect - Credit Limit / Case Positive
+	- Data Charging System = CBS
+	- Special Account BA = Null
+	- Blacklist CA = 10
+	Order Reason = 066_18 - ประนอม/ผ่อนชำระหนี้
+	- Residential"",
+  "relateParty": {
+    "orderCreator": {
+      "name": "AMNAK443",
+      "locationCode": "1004"
+    }
+  }
+}
